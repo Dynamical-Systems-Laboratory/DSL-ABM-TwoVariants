@@ -1,0 +1,258 @@
+// number of strains
+2
+// household transmission rate strain 1
+2.75
+// household transmission rate strain 2
+5.5
+// severity correction
+2.0
+// household scaling parameter
+0.8
+// workplace transmission rate strain 1
+2.65
+// workplace transmission rate strain 2
+5.3
+// out-of-town workplace transmission
+0.0
+// out-of-town leisure transmission
+0.0
+// fraction estimated infected
+0.0038
+// work absenteeism correction
+0.0
+// carpool transmission rate strain 1
+2.75
+// carpool transmission rate strain 2
+5.5
+// public transit transmission rate
+0.0
+// public transit beta0 strain 1
+0.004
+// public transit beta0 strain 2
+0.008
+// public transit beta full strain 1
+0.14
+// public transit beta full strain 2
+0.28
+// public transit current capacity
+1.0
+// leisure locations transmission rate strain 1
+0.912
+// leisure locations transmission rate strain 2
+1.824
+// lockdown absenteeism
+0.0
+// RH employee absenteeism factor
+0.0
+// RH employee transmission rate strain 1
+2.65     
+// RH employee transmission rate strain 2
+5.3
+// RH resident transmission rate strain 1
+2.75
+// RH resident transmission rate strain 2
+5.5
+// RH transmission rate of home isolated strain 1
+1.92
+// RH transmission rate of home isolated strain 2
+3.84
+// school transmission rate strain 1
+5.32
+// school transmission rate strain 2
+10.64
+// school employee absenteeism correction
+0.0
+// school employee transmission rate strain 1
+2.65
+// school employee transmission rate strain 2
+5.3
+// daycare absenteeism correction
+0.0
+// primary and middle school absenteeism correction
+0.0
+// high school absenteeism correction
+0.0
+// college absenteeism correction
+0.0
+// healthcare employees transmission rate strain 1
+5.125
+// healthcare employees transmission rate strain 2
+10.25
+// hospital patients transmission rate strain 1
+5.525
+// hospital patients transmission rate strain 2
+11.05
+// hospitalized transmission rate strain 1
+4.07
+// hospitalized transmission rate strain 2
+8.14
+// hospitalized ICU transmission rate strain 1
+5.35
+// hospitalized ICU transmission rate strain 2
+10.7
+// hospital tested transmission rate strain 1
+7.0
+// hospital tested transmission rate strain 2
+14.0
+// negative tests fraction 
+0.96
+// fraction with flu
+0.0006803
+// flu testing duration
+-10
+// fraction tested in hospitals
+0.10
+// fraction false negative
+0.385
+// fraction false negative - strain 2
+0.385
+// fraction false positive
+0.05
+// agent variability gamma shape
+0.25
+// agent variability gamma scale
+4.0
+// latency log-normal mean
+0.9893
+// latency log-normal standard deviation
+0.418
+// fraction exposed never symptomatic
+0.5
+// fraction to get tested
+0.9
+// average fraction to get tested
+0.9
+// exposed fraction to get tested
+0.6
+// time from decision to test
+1.0
+// time from test to results
+1.0
+// transmission rate of home isolated strain 1
+1.92
+// transmission rate of home isolated strain 2
+3.84
+// time from exposed to infectiousness
+2.7 
+// probability of death in ICU
+0.5
+// probability dying if needing but not admitted to icu
+1.0 
+// time in hospital
+3
+// time in ICU
+2
+// time in hospital after ICU
+4
+// recovery time
+4.9
+// oth gamma shape
+0.7696
+// oth gamma scale
+3.4192
+// otd logn mean
+2.6696
+// otd logn std
+0.4760
+// htd wbl shape
+1.6726
+// htd wbl scale
+10.1237
+// time before death to ICU
+2
+// time to start data collection
+0
+// start testing
+0
+// school closure
+2000000
+// lockdown
+2900000
+// reopening phase 1
+340000
+// reopening phase 2
+380000
+// reopening phase 3
+400000
+// fraction of ld businesses 
+0.1
+// fraction of phase 1 businesses
+0.35
+// fraction of phase 2 businesses
+0.4
+// fraction of phase 3 businesses
+0.5
+// fraction of phase 4 businesses
+1.0
+// school transmission reduction
+1.0
+// leisure - dr0
+1.5
+// leisure - beta
+1.75
+// leisure - kappa
+400.0
+// leisure - fraction
+0.5
+// leisure - fraction - initial
+0.5
+// leisure - fraction - final
+0.5
+// vaccinations - mobility increase factor
+1.0
+// initially vaccinated
+71285
+// vaccination rate
+0
+// leisure reopening rate
+0.0
+// Post-infection vaccination lag
+21
+// Post-infection immunity duration
+90 
+// Maximum number to vaccinate
+71285
+// contact tracing compliance
+0.109
+// maximum number of visits to track
+56
+// max contacts at school
+10
+// max contacts at hospital
+10
+// max contacts at RH
+10
+// max contacts residents at RH
+10
+// max contacts at workplace
+10
+// quarantine duration
+5
+// quarantine memory
+10
+// management science art transmission rate strain 1
+2.65
+// management science art transmission rate strain 2
+5.3
+// service occupation transmission rate strain 1
+2.65
+// service occupation transmission rate strain 2
+5.3
+// sales office transmission rate strain 1
+2.65
+// sales office transmission rate strain 2
+5.3
+// construction maintenance transmission rate strain 1
+2.65
+// construction maintenance transmission rate strain 2
+5.3
+// production transportation transmission rate strain 1
+2.65
+// production transportation transmission rate strain 2
+5.3
+// Maximum number to boost
+0
+// fraction boosters
+0
+// introduction of a new strain
+10000

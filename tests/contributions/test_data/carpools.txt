@@ -1,0 +1,6 @@
+1 outside 60.0 11747
+2 outside 60.0 11747
+3 outside 60.0 11747
+4 outside 52.0 11747
+5 outside 60.0 11747
+6 outside 17.0 10458

@@ -1,0 +1,14 @@
+1 0 0 775 2 0.1 outside
+2 0 0 765 2 0.1 outside
+3 0 0 719 2 0.1 outside
+4 0 0 729 2 0.1 outside
+5 0 0 730 2 0.1 outside
+6 0 0 711 2 0.1 outside
+7 0 0 739 2 0.1 outside
+8 0 0 739 2 0.1 outside
+9 0 0 744 2 0.1 outside
+10 0 0 783 2 0.1 outside
+11 0 0 764 2 0.1 outside
+12 0 0 757 2 0.1 outside
+13 0 0 744 2 0.1 outside
+14 0 0 717 2 0.1 outside

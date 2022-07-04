@@ -1,0 +1,206 @@
+// household transmission rate
+1.1
+// severity correction
+2.0
+// household scaling parameter
+0.8
+// workplace transmission rate
+1.06
+// out-of-town workplace transmission
+0.000318
+// out-of-town leisure transmission
+0.00010944
+// fraction estimated infected
+0.0003
+// work absenteeism correction
+0.0
+// carpool transmission rate
+1.1
+// public transit transmission rate
+0.0391
+// public transit current capacity
+0.66
+// public transit beta0
+0.0016
+// public transit beta full
+0.0544
+// leisure locations transmission rate
+0.3648
+// lockdown absenteeism
+0.0
+// RH employee absenteeism factor
+0.0
+// RH employee transmission rate
+1.06     
+// RH resident transmission rate 
+1.1
+// RH transmission rate of home isolated
+0.768
+// school transmission rate
+2.13
+// school employee absenteeism correction
+0.0
+// school employee transmission rate
+1.06
+// daycare absenteeism correction
+0.0
+// primary and middle school absenteeism correction
+0.0
+// high school absenteeism correction
+0.0
+// college absenteeism correction
+0.0
+// healthcare employees transmission rate
+2.05
+// hospital patients transmission rate
+2.21
+// hospitalized transmission rate
+1.63
+// hospitalized ICU transmission rate
+2.14
+// hospital tested transmission rate
+2.8
+// negative tests fraction 
+0.25
+// fraction with flu
+0.000001
+// flu testing duration
+-10
+// fraction tested in hospitals
+0.60
+// fraction false negative
+0.05
+// fraction false positive
+0.05
+// agent variability gamma shape
+0.25
+// agent variability gamma scale
+4.0
+// latency log-normal mean
+1.2250
+// latency log-normal standard deviation
+0.418
+// fraction exposed never symptomatic
+0.3
+// fraction to get tested
+0.3
+// average fraction to get tested
+0.3
+// exposed fraction to get tested
+0.15
+// time from decision to test
+1.5
+// time from test to results
+4.0
+// transmission rate of home isolated
+0.768
+// time from symptoms to infectiousness
+0.5
+// time from exposed to infectiousness
+4.6 
+// probability of death in ICU
+0.5
+// probability dying if needing but not admitted to icu
+1.0 
+// time in hospital
+3
+// time in ICU
+2
+// time in hospital after ICU
+4
+// recovery time
+4.9
+// oth gamma shape
+0.7696
+// oth gamma scale
+3.4192
+// otd logn mean
+2.6696
+// otd logn std
+0.4760
+// htd wbl shape
+1.6726
+// htd wbl scale
+10.1237
+// time before death to ICU
+2
+// time to start data collection
+0
+// start testing
+0
+// school closure
+20000
+// lockdown
+290000
+// reopening phase 1
+340000
+// reopening phase 2
+380000
+// reopening phase 3
+400000
+// fraction of ld businesses 
+0.1
+// fraction of phase 1 businesses
+0.35
+// fraction of phase 2 businesses
+0.4
+// fraction of phase 3 businesses
+0.5
+// fraction of phase 4 businesses
+0.62
+// school transmission reduction
+0.75
+// leisure - dr0
+1.5
+// leisure - beta
+1.75
+// leisure - kappa
+400.0
+// leisure - fraction
+0.5
+// leisure - fraction - initial
+0.5
+// leisure - fraction - final
+0.5
+// vaccinations - mobility increase factor
+1.5
+// initially vaccinated
+51342
+// vaccination rate
+456
+// leisure reopening rate
+0.0
+// Post-infection vaccination lag
+21
+// Post-infection immunity duration
+180 
+// Maximum number to vaccinate
+64364
+// contact tracing compliance
+0.109
+// maximum number of visits to track
+56
+// max contacts at school
+10
+// max contacts at hospital
+10
+// max contacts at RH
+10
+// max contacts residents at RH
+10
+// max contacts at workplace
+10
+// quarantine duration
+10
+// quarantine memory
+4
+// management science art transmission rate
+1.06
+// service occupation transmission rate
+1.06
+// sales office transmission rate
+1.06
+// construction maintenance transmission rate
+1.06
+// production transportation transmission rate
+1.06

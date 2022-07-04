@@ -1,0 +1,22 @@
+// Number of one dose types
+2
+// Number of two dose types
+3
+// one dose - type 1 probability vaccinated, CDF
+0.2
+// one dose - type 2 probability vaccinated, CDF
+1.0
+// two dose - type 1 probability vaccinated, CDF
+0.1
+// two dose - type 2 probability vaccinated, CDF
+0.6
+// two dose - type 3 probability vaccinated, CDF
+1.0
+// Minimum vaccination age
+12
+// Fraction taking one dose vaccine
+0.25
+// Start of time offset interval
+0
+// End of time offset interval
+180

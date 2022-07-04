@@ -1,0 +1,40 @@
+// Number of one dose types
+0
+// Number of two dose types
+1
+// one dose - type 1 probability vaccinated, CDF
+0.0
+// two dose - type 1 probability vaccinated, CDF
+1.0
+// two dose - type 2 probability vaccinated, CDF
+0.0
+// Minimum vaccination age
+5
+// Fraction taking one dose vaccine
+0.0
+// Start of time offset interval
+0
+// End of time offset interval
+473
+// Third dose max effects time
+1
+// Third dose max effects end time
+150
+// Third dose no effects time
+300
+// Strain id
+1
+// Number of strains
+2
+// Effectiveness reduction for strain 2
+0.5
+// Asymptomatic reduction for strain 2
+0.9
+// Transmission reduction for strain 2
+1.5
+// Severe reduction for strain 2
+1.5
+// Death reduction for strain 2
+0.1
+// Fraction with boosters
+0.0

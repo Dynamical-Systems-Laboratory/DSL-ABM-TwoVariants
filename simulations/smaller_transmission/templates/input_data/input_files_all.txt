@@ -1,0 +1,36 @@
+// Simulation parameters
+input_data/infection_parameters.txt
+// exposed never symptomatic
+input_data/age_dist_exposed_never_sy.txt
+// hospitalization
+input_data/age_dist_hospitalization.txt
+// ICU
+input_data/age_dist_hosp_ICU.txt	  
+// mortality
+input_data/age_dist_mortality.txt
+// Testing manager
+input_data/tests_with_time.txt
+// Household data
+input_data/NR_households.txt
+// School data
+input_data/NR_schools.txt
+// Workplace data
+input_data/NR_workplaces.txt
+// Hospital data
+input_data/NR_hospitals.txt
+// Retirement home data
+input_data/NR_retirement_homes.txt
+// Carpool data
+input_data/NR_carpool.txt
+// Public transit data
+input_data/NR_public.txt
+// Leisure location data
+input_data/NR_leisure.txt
+// Agent data
+input_data/NR_agents.txt
+// Vaccination parameters
+input_data/vaccination_parameters_strain_1.txt
+// Vaccination tables directory
+input_data/strain_1/
+// File with vaccination offsets
+input_data/vac_times_NR.txt
